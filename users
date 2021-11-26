@@ -1,5 +1,4 @@
 local users = {
 115151204,
-2797333235,
 }
 return users
