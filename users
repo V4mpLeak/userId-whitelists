@@ -19,5 +19,6 @@ local users = {
 1628804244,-- Buyer
 1628804244,-- Buyer
 1293510573, --Buyer deebo
+2365932564, --Fucking gbk's alt
 }
 return users
