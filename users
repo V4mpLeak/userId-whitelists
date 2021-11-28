@@ -18,6 +18,5 @@ local users = {
 3000264198,-- Buyer
 1628804244,-- Buyer
 1628804244,-- Buyer
-2310491929 -- Buyer nyz
 }
 return users
