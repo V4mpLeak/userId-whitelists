@@ -23,5 +23,6 @@ local users = {
 570452712, --Nyz alt
 1790125547, --Ressy
 2408320688, --My alt
+3094996892, --Buyer Xong Smith 625178238809014272
 }
 return users
