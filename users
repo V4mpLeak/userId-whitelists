@@ -28,5 +28,6 @@ local users = {
 2730880574, --Buyer Glick 848727079909457961
 1783615651, --Rewhitelist by hax 757434603941265512
 1790346178, --Buyer cloundzy 879755801990938685
+7031939, --My alt acc
 }
 return users
