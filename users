@@ -30,5 +30,6 @@ local users = {
 1790346178, --Buyer cloundzy 879755801990938685
 7031939, --My alt acc
 1695222775, --Hax's alt 757434603941265512
+2577869490, --Gbk's Friend
 }
 return users
