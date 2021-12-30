@@ -33,5 +33,6 @@ local users = {
 2577869490, --Gbk's alt
 1551696079, -- Gbk's Friend
 503651420, -- David's alt 791930380106203136
+649507109, -- Dw
 }
 return users
